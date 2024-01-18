@@ -1,0 +1,9 @@
+https://dev.to/global_codess/time-complexities-of-python-data-structures-3bja
+https://realpython.com/python-ordereddict/
+https://blog.stackademic.com/exploring-numpy-features-performance-vs-lists-7f0b43d2af5f
+https://www.educative.io/answers/what-is-iterative-deepening-search
+https://www.geeksforgeeks.org/a-search-algorithm/
+https://www.simplilearn.com/tutorials/artificial-intelligence-tutorial/a-star-algorithm#:~:text=BootcampEXPLORE%20PROGRAM-,What%20is%20an%20A*%20Algorithm%3F,shortest%20path%20to%20be%20taken.
+https://www.mygreatlearning.com/blog/a-search-algorithm-in-artificial-intelligence/
+
+
